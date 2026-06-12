@@ -1,4 +1,4 @@
-These are the official emotes for Unicorn Utterances
+These are the official emotes for Playful Programming
 
 <img alt="The 'chin' emote" src="./rendered/chin.png" width="75"/> <img alt="The 'mad' emote" src="./rendered/mad.png" width="75"/> <img alt="The 'neutral' emote" src="./rendered/neutral.png" width="75"/> <img alt="The 'goofy' emote" src="./rendered/goofy.png" width="75"/> <img alt="The 'nervous' emote" src="./rendered/nervous.png" width="75"/> <img alt="The 'happy' emote" src="./rendered/happy.png" width="75"/> <img alt="The 'hello' emote" src="./rendered/hello.png" width="75"/> <img alt="The 'sad' emote" src="./rendered/sad.png" width="75"/> <img alt="The 'scared' emote" src="./rendered/scared.png" width="75"/> <img alt="The 'proud' emote" src="./rendered/proud.png" width="75"/>
 
